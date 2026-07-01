@@ -15,3 +15,4 @@
 - cd
 - whoami
 - id
+- mkdir
